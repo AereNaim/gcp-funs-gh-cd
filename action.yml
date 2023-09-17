@@ -1,0 +1,9 @@
+name: 'Deploy to Firebase Cloud Functions'
+author: 'Aere Naim <naimdeveloper@gmail.com>'
+description: 'GCP Functions deployment through GitHub Actions'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: 'cloud'
+  color: 'gray-dark'
