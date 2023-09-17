@@ -1,6 +1,6 @@
 # Deploy to Firebase Functions for Node18
 
-A GitHub Action to deploy to Firebase Cloud Functions for Node14.
+A GitHub Action to deploy to Firebase Cloud Functions for Node 18.
 
 - Make sure that you checkout the repository using the [actions/checkout](https://github.com/actions/checkout) action
 - Make sure that you have the `firebase.json` file in the repository
